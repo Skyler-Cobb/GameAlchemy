@@ -24,7 +24,7 @@ GAMES = [
     ("Minesweeper", "minesweeper.svg"),
     ("Snake",        "snake.svg"),
     ("BrickLayer",   "bricklayer.svg"),  # Tetris‑like
-    ("PipeLine",     "pipeline.svg"),    # Flow‑like
+    ("Pipeline",     "pipeline.svg"),    # Flow‑like
     ("Hangman",      "hangman.svg"),
     ("Pairs",        "pairs.svg"),       # Concentration
     ("WordIt",       "wordit.svg"),      # Wordle‑like
